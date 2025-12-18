@@ -1,20 +1,4 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
+The Smart Client Requirement Analyzer is a web-based application designed to simplify and automate the process of understanding client requirements in enterprise software projects.
+It converts unstructured client inputs into structured development tasks, helping teams reduce ambiguity, improve accuracy, and speed up solution delivery.
 
-# Run and deploy your AI Studio app
-
-This contains everything you need to run your app locally.
-
-View your app in AI Studio: https://ai.studio/apps/drive/12Kqk2IRmqOXLXRZFEE1z0bO82IsS5wa3
-
-## Run Locally
-
-**Prerequisites:**  Node.js
-
-
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+This project simulates real-world scenarios faced by IT service organizations during requirement analysis and solution design.
